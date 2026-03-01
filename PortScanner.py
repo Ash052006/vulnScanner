@@ -1,7 +1,7 @@
 import socket
 from IPy import IP
 
-from vulnScanner import targets_ip
+from vulnScanner import targets
 
 
 class PortScan():
